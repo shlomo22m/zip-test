@@ -1,0 +1,112 @@
+sum of digit Exception pass 01/02/2023 23:44:14
+compress test pass 01/02/2023 23:48:16
+compress Exception pass 01/02/2023 23:48:16
+compress Exception fail 01/02/2023 23:48:16
+compress test pass 01/02/2023 23:48:59
+compress Exception pass 01/02/2023 23:48:59
+compress Exception fail 01/02/2023 23:48:59
+sispl test pass 01/02/2023 23:49:40
+ispl Exception pass 01/02/2023 23:49:40
+compress test fail 01/02/2023 23:50:57
+sispl test pass 01/02/2023 23:52:17
+ispl Exception pass 01/02/2023 23:52:17
+sum of digit test pass 01/02/2023 23:52:24
+sum of digit test pass 01/02/2023 23:52:58
+sum of digit test pass 01/02/2023 23:53:37
+sum of digit Exception pass 01/02/2023 23:54:49
+compress test pass 01/02/2023 23:56:00
+compress Exception fail 01/02/2023 23:56:00
+sispl test pass 01/02/2023 23:56:21
+ispl Exception pass 01/02/2023 23:56:21
+sum of digit test pass 02/02/2023 14:12:20
+sum of digit Exception pass 02/02/2023 14:12:20
+sum of digit test pass 02/02/2023 14:12:59
+sum of digit Exception pass 02/02/2023 14:12:59
+sum of digit test pass 02/02/2023 14:13:20
+sum of digit Exception fail 02/02/2023 14:13:20
+compress test pass 02/02/2023 14:14:06
+compress Exception fail 02/02/2023 14:14:06
+compress test pass 02/02/2023 14:15:16
+compress Exception fail 02/02/2023 14:15:16
+compress test fail 02/02/2023 14:16:10
+compress Exception pass 02/02/2023 14:16:10
+compress test fail 02/02/2023 14:16:33
+compress Exception pass 02/02/2023 14:16:33
+compress test fail 02/02/2023 14:17:24
+compress Exception pass 02/02/2023 14:17:24
+compress test pass 02/02/2023 14:17:59
+compress Exception fail 02/02/2023 14:17:59
+compress test fail 02/02/2023 14:18:31
+compress Exception pass 02/02/2023 14:18:31
+compress test fail 02/02/2023 14:19:52
+compress Exception pass 02/02/2023 14:19:52
+compress test pass 02/02/2023 14:20:22
+compress Exception fail 02/02/2023 14:20:22
+compress test fail 02/02/2023 14:21:52
+compress Exception pass 02/02/2023 14:21:52
+compress test pass 02/02/2023 14:22:29
+compress Exception fail 02/02/2023 14:22:29
+compress test fail 02/02/2023 14:30:58
+compress Exception pass 02/02/2023 14:30:58
+compress test fail 02/02/2023 14:31:20
+compress Exception pass 02/02/2023 14:31:20
+compress test fail 02/02/2023 14:33:22
+compress Exception pass 02/02/2023 14:33:22
+compress test pass 02/02/2023 14:33:40
+compress Exception pass 02/02/2023 14:33:40
+compress test pass 02/02/2023 14:34:03
+compress Exception pass 02/02/2023 14:34:03
+compress test fail 02/02/2023 14:34:35
+compress Exception pass 02/02/2023 14:34:35
+compress test fail 02/02/2023 14:34:58
+compress Exception pass 02/02/2023 14:34:58
+compress test pass 02/02/2023 14:35:52
+compress Exception fail 02/02/2023 14:35:52
+add of digit test fail 02/02/2023 14:38:12
+add of digit test pass expected 10 actual 10 02/02/2023 14:41:24
+add of digit test fail expected 10 actual 10 02/02/2023 14:42:15
+add of digit test fail expected 10 actual 7 02/02/2023 14:42:43
+ sub test pass expected 0 actual 0 02/02/2023 14:44:29
+sub test fail expected 0 actual -2 02/02/2023 14:44:58
+compress test pass 02/02/2023 14:56:10
+compress Exception fail 02/02/2023 14:56:10
+compress test fail 02/02/2023 14:56:26
+compress Exception pass 02/02/2023 14:56:26
+compress test pass 02/02/2023 14:56:44
+compress Exception fail 02/02/2023 14:56:44
+compress test fail 02/02/2023 14:57:20
+compress Exception pass 02/02/2023 14:57:20
+compress test pass 02/02/2023 14:58:09
+compress Exception fail 02/02/2023 14:58:09
+sum of digit test fail 02/02/2023 15:00:54
+sum of digit Exception pass 02/02/2023 15:00:54
+sum of digit test fail 02/02/2023 15:01:48
+sum of digit Exception pass 02/02/2023 15:01:48
+sum of digit test fail 02/02/2023 15:02:18
+sum of digit Exception pass 02/02/2023 15:02:18
+sum of digit test fail 02/02/2023 15:02:46
+sum of digit Exception pass 02/02/2023 15:02:46
+sum of digit test fail 02/02/2023 15:03:17
+sum of digit Exception pass 02/02/2023 15:03:17
+sum of digit test fail 02/02/2023 15:03:33
+sum of digit Exception pass 02/02/2023 15:03:33
+sum of digit test fail 02/02/2023 15:04:10
+sum of digit Exception pass 02/02/2023 15:04:10
+sum of digit test fail 02/02/2023 15:09:19
+sum of digit Exception pass 02/02/2023 15:09:19
+sum of digit test pass 02/02/2023 15:09:48
+sum of digit Exception fail 02/02/2023 15:09:48
+ispl test pass 02/02/2023 15:11:07
+ispl Exception pass 02/02/2023 15:11:07
+sum of digit test pass expected 9 actual 4 02/02/2023 15:13:44
+sum of digit Exception fail 02/02/2023 15:13:44
+sum of digit test fail expected 9 actual 9 02/02/2023 15:14:25
+sum of digit Exception fail 02/02/2023 15:14:25
+sum of digit test fail expected 9 actual 9 02/02/2023 15:15:02
+sum of digit Exception fail 02/02/2023 15:15:02
+sum of digit test pass 02/02/2023 15:15:39
+sum of digit Exception fail 02/02/2023 15:15:39
+sum of digit test pass expected 9 02/02/2023 15:16:06
+sum of digit Exception fail 02/02/2023 15:16:06
+compress test pass 02/02/2023 15:36:33
+compress Exception fail 02/02/2023 15:36:33
